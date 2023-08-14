@@ -17,7 +17,7 @@ public class SpringApplicationTests  {
 		
 		
 		System.setProperty("webdriver.chrome.driver",
-				"C:\\Users\\Saurabh Dhingra\\workspace\\libs\\chromeDriver36\\chromedriver.exe");
+				"C:\\Users\\ADMIN\\Desktop\\virtusa assignment1\\Virtusa\\chromedriver.exe");
 		
 		driver = new ChromeDriver();
 		
